@@ -5,3 +5,6 @@ SQLAlchemy
 ChatBot
 flask
 Jinja2
+itsdangerous
+MarkupSafe
+Werkzeug
