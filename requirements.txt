@@ -3,4 +3,5 @@ gunicorn
 django-heroku
 SQLAlchemy
 ChatBot
-
+Flask
+Jinja2
