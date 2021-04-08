@@ -1,11 +1,4 @@
 django
 gunicorn
 django-heroku
-SQLAlchemy
-ChatBot
-flask
-Jinja2
-itsdangerous
-MarkupSafe
-Werkzeug
-chatterbot
+
